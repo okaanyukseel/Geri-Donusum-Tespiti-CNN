@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ortamlar
+venv/
+.venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scriptlerin ürettiği veri ve çıktılar
+output_dataset/
+outputs/
